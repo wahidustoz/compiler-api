@@ -1,0 +1,8 @@
+
+POST https://localhost:5001/compiler/submit HTTP/1.1
+content-type: application/json
+
+{
+    "content": "Some code",
+    "langcode": "cpp"
+}
