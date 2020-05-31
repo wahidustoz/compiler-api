@@ -16,7 +16,6 @@ namespace compiler_api.Services.CompilerService
             startInfo.RedirectStandardError = true;
             startInfo.RedirectStandardOutput = true;
 
-            
         }
     }
 }
